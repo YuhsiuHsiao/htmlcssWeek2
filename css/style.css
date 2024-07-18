@@ -35,7 +35,7 @@ nav a{
   width: 636px;
 }
 .introduction{
-  background-image: url(/images/background-img.png);
+  background-image: url(../images/background-img.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
